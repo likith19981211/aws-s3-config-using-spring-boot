@@ -1,0 +1,16 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIARDGZJLPEPUXHPOPV
+      secret-key: SlnghzSXTL/ccf681Hk0FtFPmOW/pE7f+h6YEOvm
+    region:
+      static: ap-south-1
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: samplebucketbylikith
+
+server:
+  port: 9005
